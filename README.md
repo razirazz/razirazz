@@ -1,48 +1,213 @@
-## Hi I'm Razeena 👋
+# Hi, I'm Razeena C P
 
-<!--
-**razirazz/razirazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Computer Vision | Deep Learning | Data Science | Generative AI
 
-Here are some ideas to get you started:
+I'm an **MSc Computer Science graduate specializing in Artificial Intelligence**, focused on building practical AI systems using machine learning, deep learning, computer vision, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🎓 M.Sc in Computer Science with Specialization in Artificial Intelligence <br>
-👍 Expertise in Advanced Driver Assistance Systems (ADAS) <br>
-🔭 Currently working on ADAS project <br>
-👯 I’m looking to collaborate on ADAS and AI/ML projects <br>
-💪 Full-Stack Python Developer | Next.js <br>
-📫 Reach me out through [Gmail](cprazeena@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/razirazz/)  |  [X](https://x.com/ra_zi_ra_zz/)  |  [Instagram](https://www.instagram.com/ra_zi_ra_zz/) <br>
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/razeenacp) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/razeena.cp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ra_zi_ra_zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/razirazz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cprazeena) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ra_zi_ra_zz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cprazeena@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=razirazz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=razirazz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=razirazz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=razirazz&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=razirazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My work combines **AI research, model development, data analysis, and software engineering**, with particular interest in intelligent systems, computer vision, ADAS, NLP, and emerging Generative AI technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=razirazz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- MSc Computer Science specializing in Artificial Intelligence
+- AI/ML Engineer with a strong foundation in machine learning and deep learning
+- Research experience in **Computer Vision and Advanced Driver Assistance Systems (ADAS)**
+- Author of a conference paper on **Deep Learning-based Automated Braking Decision-making for ADAS**
+- Experience developing machine learning models using **PyTorch, TensorFlow and Scikit-learn**
+- Experience with **YOLO, CNNs, transfer learning and image classification**
+- Data science experience involving **Python, SQL, Pandas, NumPy, Power BI and Tableau**
+- Experience developing AI applications involving **NLP, Transformers, speech recognition and face recognition**
+- Full-stack development experience with **Django, Flask, Next.js and PostgreSQL**
+- Currently expanding into **LLMs, RAG, Generative AI, AI agents and MLOps**
+
+---
+
+## Research & AI Focus
+
+My primary areas of interest include:
+
+**Artificial Intelligence**
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents
+
+**Intelligent Systems**
+- Advanced Driver Assistance Systems
+- Object Detection
+- Image Classification
+- Automated Decision-Making
+- Intelligent Assistants
+
+**Data Science**
+- Exploratory Data Analysis
+- Feature Engineering
+- Predictive Modeling
+- Classification
+- Model Evaluation
+- Business Analytics
+
+---
+
+## Featured Projects
+
+### ADAS Automated Braking Decision-Making
+
+A deep learning-based system designed to support automated braking decisions using computer vision.
+
+**Technologies:**
+
+`Python` `PyTorch` `YOLOv8` `ResNet18` `BDD100K` `Computer Vision`
+
+The system combines object detection, distance estimation and deep learning-based classification to determine braking decisions from road-scene imagery.
+
+**Research areas:**
+- Object Detection
+- Computer Vision
+- Transfer Learning
+- Deep Learning
+- ADAS
+- Automated Decision-Making
+
+---
+
+### Campaign Analytics & Machine Learning
+
+An end-to-end data science project analyzing marketing campaign performance and applying machine learning to identify patterns associated with campaign outcomes.
+
+**Technologies:**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Power BI` `Tableau`
+
+**Workflow:**
+
+Data Cleaning → Feature Engineering → EDA → Visualization → Machine Learning → Model Evaluation → Business Insights
+
+The project demonstrates how analytics and predictive modeling can complement traditional BI dashboards by moving from descriptive analysis toward predictive decision support.
+
+---
+
+### FR-Robo — AI Assistant
+
+An AI-based chatbot and interactive assistant developed using multiple AI technologies.
+
+**Technologies:**
+
+`Python` `NLP` `Transformers` `Speech Recognition` `Face Recognition`
+
+The project explores conversational AI, person recognition, speech interaction and intelligent responses in an integrated AI application.
+
+---
+
+### SYPHYR — Full-Stack E-Commerce Platform
+
+A full-stack fashion e-commerce platform developed using modern web technologies.
+
+**Technologies:**
+
+`Next.js` `React` `Django` `PostgreSQL` `Tailwind CSS` `REST APIs`
+
+The project includes product management, authentication, shopping workflows, inventory management and e-commerce functionality.
+
+---
+
+## Technical Stack
+
+### Programming
+
+`Python` `SQL` `Java` `JavaScript`
+
+### Machine Learning
+
+`Scikit-learn` `Pandas` `NumPy` `SciPy`
+
+### Deep Learning
+
+`PyTorch` `TensorFlow` `Torchvision`
+
+### Computer Vision
+
+`YOLO` `OpenCV` `CNNs` `Transfer Learning`
+
+### AI & NLP
+
+`Transformers` `NLP` `LLMs` `RAG` `Generative AI`
+
+### Data Visualization & Analytics
+
+`Power BI` `Tableau` `Matplotlib`
+
+### Web Development
+
+`Django` `Flask` `Next.js` `React` `Tailwind CSS`
+
+### Databases
+
+`PostgreSQL` `MySQL`
+
+### Development & Deployment
+
+`Git` `GitHub` `Docker` `Vercel` `Render`
+
+---
+
+## Research
+
+### Deep Learning-based Automated Braking Decision-making for ADAS
+
+My research focuses on applying deep learning and computer vision to automated braking decision-making in Advanced Driver Assistance Systems.
+
+The work explores:
+
+- Object detection
+- Visual distance estimation
+- Deep feature learning
+- Transfer learning
+- Braking decision prediction
+- AI-assisted vehicle safety
+
+---
+
+## Currently Exploring
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Generative AI
+- AI Agents
+- Hugging Face
+- Vector Databases
+- MLOps
+- Production AI Systems
+- AI Deployment
+
+---
+
+## What I Build
+
+I enjoy working on projects that combine:
+
+**Data → Machine Learning → Intelligence → Software → Real-World Applications**
+
+My goal is to develop AI systems that are not only accurate in experiments, but also useful, scalable and deployable in real-world environments.
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/razirazz/
+- **Portfolio:** https://razeena-cp.vercel.app/
+- **Tableau:** https://public.tableau.com/app/profile/razeena.cp/vizzes
+- **Email:** cprazeena@gmail.com
+
+---
+
+### Open to Opportunities
+
+I'm interested in opportunities involving:
+
+**AI/ML Engineering · Data Science · Computer Vision · Deep Learning · Generative AI · Intelligent Systems · Applied AI**
